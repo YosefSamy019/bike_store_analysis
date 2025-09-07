@@ -40,13 +40,32 @@ The goal is to uncover insights about sales, customers, staff, and stores, and t
 Below are sample screenshots of the Power BI dashboard:
 
 * **Sales Dashboard**
-  ![Sales Dashboard](img1.png)
+  ![Sales Dashboard](img/img1.png)
 
 * **Stores Dashboard**
-  ![Stores Dashboard](img2.png)
+  ![Stores Dashboard](img/img2.png)
 
 * **Staff Dashboard**
-  ![Staff Dashboard](img3.png)
+  ![Staff Dashboard](img/img3.png)
+
+---
+
+## 🖼️ SQL Queries
+
+Below are sample screenshots of SQL Queries:
+
+  ![](img/sql(1).png)
+  ![](img/sql(2).png)
+  ![](img/sql(3).png)
+  ![](img/sql(4).png)
+  ![](img/sql(5).png)
+  ![](img/sql(6).png)
+  ![](img/sql(7).png)
+  ![](img/sql(8).png)
+  ![](img/sql(9).png)
+  ![](img/sql(10).png)
+  ![](img/sql(11).png)
+  ![](img/sql(12).png)
 
 ---
 
